@@ -102,11 +102,3 @@ The dashboard enables quick monitoring of financial performance for executives.
 * Review vendor spending and procurement efficiency
 
 ---
-
-# Dashboard Preview
-
-*<img width="1333" height="742" alt="image" src="https://github.com/user-attachments/assets/5d63aca3-7f55-4c97-918a-bf99cf46fe9c" />
-*
-
----
-
